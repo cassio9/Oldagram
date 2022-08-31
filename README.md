@@ -1,0 +1,2 @@
+# Oldagram
+Scrimba solo project
